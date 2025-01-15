@@ -12,7 +12,7 @@ sentenceTransformer = SentenceTransformer("all-MiniLM-L6-v2")
 # Loop contínuo para interação com o usuário
 while True:
     # Solicita ao usuário uma pergunta ou sinopse para procurar filmes relacionados
-    texto = input("O que você gostaria de saber? (digite '/sair' para finalizar): ")
+    texto = input("Qual filme você quer assistir? (digite '/sair' para finalizar): ")
     
     # Condicional para sair do loop quando o usuário digitar 'exit'
     if texto.lower() == 'exit':
