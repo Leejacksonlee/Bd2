@@ -1,0 +1,242 @@
+[
+    {
+        "id": "1",
+        "titulo": "A Origem",
+        "sinopse": "Um ladrão que rouba segredos corporativos por meio da tecnologia de compartilhamento de sonhos recebe a tarefa inversa de plantar uma ideia na mente de um CEO.",
+        "genero": ["Ação", "Ficção Científica", "Suspense"],
+        "diretor": "Christopher Nolan",
+        "nota": 8.8
+    },
+    {
+        "id": "2",
+        "titulo": "Um Sonho de Liberdade",
+        "sinopse": "Dois homens presos criam um vínculo ao longo de vários anos, encontrando conforto e redenção através de atos de bondade.",
+        "genero": ["Drama"],
+        "diretor": "Frank Darabont",
+        "nota": 9.3
+    },
+    {
+        "id": "3",
+        "titulo": "Parasita",
+        "sinopse": "Ganância e discriminação de classes ameaçam a relação simbiótica entre a rica família Park e a pobre família Kim.",
+        "genero": ["Drama", "Suspense"],
+        "diretor": "Bong Joon Ho",
+        "nota": 8.6
+    },
+    {
+        "id": "4",
+        "titulo": "O Cavaleiro das Trevas",
+        "sinopse": "Quando o perigo conhecido como Coringa surge, ele causa caos na cidade de Gotham. Batman enfrenta um grande teste psicológico e físico.",
+        "genero": ["Ação", "Crime", "Drama"],
+        "diretor": "Christopher Nolan",
+        "nota": 9.0
+    },
+    {
+        "id": "5",
+        "titulo": "Pulp Fiction: Tempo de Violência",
+        "sinopse": "As vidas de dois assassinos, um boxeador, a esposa de um gângster e dois assaltantes se entrelaçam em histórias de violência e redenção.",
+        "genero": ["Crime", "Drama"],
+        "diretor": "Quentin Tarantino",
+        "nota": 8.9
+    },
+    {
+        "id": "6",
+        "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+        "sinopse": "Gandalf e Aragorn lideram o Mundo dos Homens contra o exército de Sauron para distrair sua atenção de Frodo e Sam.",
+        "genero": ["Aventura", "Fantasia"],
+        "diretor": "Peter Jackson",
+        "nota": 8.9
+    },
+    {
+        "id": "7",
+        "titulo": "Clube da Luta",
+        "sinopse": "Um funcionário de escritório deprimido e um fabricante de sabão formam um clube de luta subterrâneo que evolui para algo muito maior.",
+        "genero": ["Drama"],
+        "diretor": "David Fincher",
+        "nota": 8.8
+    },
+    {
+        "id": "8",
+        "titulo": "Forrest Gump: O Contador de Histórias",
+        "sinopse": "A vida de Forrest Gump, um homem simples com uma sabedoria incrível, enquanto ele experimenta momentos históricos.",
+        "genero": ["Drama", "Romance"],
+        "diretor": "Robert Zemeckis",
+        "nota": 8.8
+    },
+    {
+        "id": "9",
+        "titulo": "Matrix",
+        "sinopse": "Um hacker descobre que a realidade é uma simulação e junta-se a uma rebelião contra os controladores da Matrix.",
+        "genero": ["Ação", "Ficção Científica"],
+        "diretor": "Lana Wachowski, Lilly Wachowski",
+        "nota": 8.7
+    },
+    {
+        "id": "10",
+        "titulo": "Gladiador",
+        "sinopse": "Um general romano traído busca vingança contra o imperador corrupto que assassinou sua família e o condenou à escravidão.",
+        "genero": ["Ação", "Drama"],
+        "diretor": "Ridley Scott",
+        "nota": 8.5
+    },
+    {
+        "id": "11",
+        "titulo": "Cidade de Deus",
+        "sinopse": "A história de duas décadas de crime em uma favela do Rio de Janeiro, centrada em dois jovens com caminhos diferentes.",
+        "genero": ["Crime", "Drama"],
+        "diretor": "Fernando Meirelles, Kátia Lund",
+        "nota": 8.6
+    },
+    {
+        "id": "12",
+        "titulo": "Vingadores: Ultimato",
+        "sinopse": "Os Vingadores se reúnem para desfazer as ações de Thanos e restaurar a ordem no universo.",
+        "genero": ["Ação", "Aventura", "Ficção Científica"],
+        "diretor": "Anthony Russo, Joe Russo",
+        "nota": 8.4
+    },
+    {
+        "id": "13",
+        "titulo": "Titanic",
+        "sinopse": "Uma jovem rica e um artista pobre se apaixonam a bordo do infame navio Titanic.",
+        "genero": ["Drama", "Romance"],
+        "diretor": "James Cameron",
+        "nota": 7.9
+    },
+    {
+        "id": "14",
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "sinopse": "Um jovem descobre que é um bruxo e frequenta uma escola de magia, onde faz amigos e enfrenta perigos.",
+        "genero": ["Aventura", "Fantasia"],
+        "diretor": "Chris Columbus",
+        "nota": 7.6
+    },
+    {
+        "id": "15",
+        "titulo": "Coringa",
+        "sinopse": "A história de origem de um dos vilões mais icônicos do mundo, explorando questões de saúde mental e desigualdade.",
+        "genero": ["Crime", "Drama", "Suspense"],
+        "diretor": "Todd Phillips",
+        "nota": 8.4
+    },
+    {
+        "id": "16",
+        "titulo": "O Resgate do Soldado Ryan",
+        "sinopse": "Durante a Segunda Guerra Mundial, um grupo de soldados é enviado para resgatar um paraquedista cujo irmãos foram mortos em combate.",
+        "genero": ["Drama", "Guerra"],
+        "diretor": "Steven Spielberg",
+        "nota": 8.6
+    },
+    {
+        "id": "17",
+        "titulo": "Jurassic Park: Parque dos Dinossauros",
+        "sinopse": "Um parque temático com dinossauros recriados geneticamente enfrenta um caos quando os sistemas de segurança falham.",
+        "genero": ["Aventura", "Ficção Científica"],
+        "diretor": "Steven Spielberg",
+        "nota": 8.1
+    },
+    {
+        "id": "18",
+        "titulo": "O Rei Leão",
+        "sinopse": "Um jovem leão exilado de sua terra natal aprende a abraçar seu destino como o rei das terras do reino.",
+        "genero": ["Animação", "Aventura", "Drama"],
+        "diretor": "Roger Allers, Rob Minkoff",
+        "nota": 8.5
+    },
+    {
+        "id": "19",
+        "titulo": "Os Infiltrados",
+        "sinopse": "Um policial disfarçado e um informante infiltrado em um grupo de criminosos tentam descobrir a identidade um do outro.",
+        "genero": ["Crime", "Drama", "Suspense"],
+        "diretor": "Martin Scorsese",
+        "nota": 8.5
+    },
+    {
+        "id": "20",
+        "titulo": "Toy Story",
+        "sinopse": "Os brinquedos de Andy ganham vida quando ninguém está olhando, liderados pelo caubói Woody e o astronauta Buzz Lightyear.",
+        "genero": ["Animação", "Aventura", "Comédia"],
+        "diretor": "John Lasseter",
+        "nota": 8.3
+    },
+    {
+        "id": "21",
+        "titulo": "A Vida é Bela",
+        "sinopse": "Um pai usa sua imaginação para proteger seu filho dos horrores de um campo de concentração nazista.",
+        "genero": ["Comédia", "Drama", "Guerra"],
+        "diretor": "Roberto Benigni",
+        "nota": 8.6
+    },
+    {
+        "id": "22",
+        "titulo": "O Grande Hotel Budapeste",
+        "sinopse": "As aventuras de um concierge em um famoso hotel europeu e seu jovem aprendiz durante um período de mudanças sociais e políticas.",
+        "genero": ["Aventura", "Comédia", "Drama"],
+        "diretor": "Wes Anderson",
+        "nota": 8.1
+    },
+    {
+        "id": "23",
+        "titulo": "Shrek",
+        "sinopse": "Um ogro relutante se junta a um burro falante em uma jornada para resgatar uma princesa de uma torre.",
+        "genero": ["Animação", "Aventura", "Comédia"],
+        "diretor": "Andrew Adamson, Vicky Jenson",
+        "nota": 7.9
+    },
+    {
+        "id": "24",
+        "titulo": "Os Sete Samurais",
+        "sinopse": "Um vilarejo japonês recruta sete samurais para protegê-los de bandidos.",
+        "genero": ["Ação", "Drama"],
+        "diretor": "Akira Kurosawa",
+        "nota": 8.6
+    },
+    {
+        "id": "25",
+        "titulo": "Interestelar",
+        "sinopse": "Um grupo de exploradores viaja por um buraco de minhoca em busca de um novo lar para a humanidade.",
+        "genero": ["Aventura", "Drama", "Ficção Científica"],
+        "diretor": "Christopher Nolan",
+        "nota": 8.6
+    },
+    {
+        "id": "26",
+        "titulo": "Django Livre",
+        "sinopse": "Um escravo libertado forma uma aliança com um caçador de recompensas para resgatar sua esposa de um cruel fazendeiro.",
+        "genero": ["Drama", "Faroeste"],
+        "diretor": "Quentin Tarantino",
+        "nota": 8.4
+    },
+    {
+        "id": "27",
+        "titulo": "O Poderoso Chefão: Parte II",
+        "sinopse": "A continuação da saga da família Corleone, mostrando a ascensão de Michael e a juventude de Vito Corleone.",
+        "genero": ["Crime", "Drama"],
+        "diretor": "Francis Ford Coppola",
+        "nota": 9.0
+    },
+    {
+        "id": "28",
+        "titulo": "Mad Max: Estrada da Fúria",
+        "sinopse": "Em um mundo pós-apocalíptico, Max se junta a uma rebelde em fuga de um tirano opressor.",
+        "genero": ["Ação", "Aventura", "Ficção Científica"],
+        "diretor": "George Miller",
+        "nota": 8.1
+    },
+    {
+        "id": "29",
+        "titulo": "Batman: O Cavaleiro das Trevas Ressurge",
+        "sinopse": "Oito anos após os eventos do Coringa, Bruce Wayne retorna como Batman para enfrentar uma nova ameaça.",
+        "genero": ["Ação", "Drama"],
+        "diretor": "Christopher Nolan",
+        "nota": 8.4
+    },
+    {
+        "id": "30",
+        "titulo": "A Chegada",
+        "sinopse": "Uma linguista é recrutada para se comunicar com alienígenas que chegaram à Terra em misteriosas naves espaciais.",
+        "genero": ["Drama", "Ficção Científica", "Suspense"],
+        "diretor": "Denis Villeneuve",
+        "nota": 7.9
+    }
+]
